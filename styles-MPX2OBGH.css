@@ -1,0 +1,1 @@
+:root{font-family:sans-serif;font-size:16px;--app-surface-color: light-dark(#ffffff, #131313);--app-on-surface-color: light-dark(#000000, #ffffff);color-scheme:light dark;color:var(--app-on-surface-color);background-color:var(--app-surface-color)}
