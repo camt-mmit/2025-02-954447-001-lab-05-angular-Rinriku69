@@ -1,0 +1,27 @@
+nav {
+  text-align: center;
+  a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 5px 10px;
+    border-radius: 4px;
+    background-color: #ffffff;
+
+    &.-is-active {
+      background-color: silver;
+    }
+  }
+}
+
+nav a:hover {
+  background-color: #d8caca;
+}
+
+h1 {
+  text-align: center;
+  color: purple;
+  background-color: rgb(175, 207, 207);
+  padding: 0 400px 0 400px;
+  border-radius: 10px;
+}

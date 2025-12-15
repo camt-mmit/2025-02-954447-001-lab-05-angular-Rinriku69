@@ -1,0 +1,30 @@
+table,
+th,
+td {
+  text-align: center;
+  border: 1px solid black;
+}
+
+td {
+  width: 200px;
+}
+
+.app-git-column {
+  width: 300px;
+  a {
+    margin: 10px 10px 10px 10px;
+    text-decoration: none;
+    color: rgb(8, 150, 150);
+    font-weight: bold;
+  }
+}
+
+a:hover {
+  background-color: beige;
+}
+
+caption {
+  font-weight: bold;
+  font-size: 20px;
+  color: rgb(77, 60, 60);
+}
