@@ -47,5 +47,9 @@
     "typescript": "~5.9.2",
     "typescript-eslint": "8.47.0",
     "vitest": "^4.0.8"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/camt-mmit/2025-02-954447-001-lab-05-angular-Rinriku69.git",
+  "author": "Rinriku69 <siripoohkim@gmail.com>",
+  "license": "MIT"
 }
