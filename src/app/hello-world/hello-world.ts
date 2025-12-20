@@ -8,5 +8,10 @@ import { ChangeDetectionStrategy, Component } from '@angular/core';
   changeDetection: ChangeDetectionStrategy.OnPush,
 })
 export class HelloWorld {
+  n_title = '';
+  HelloInput(title: string) {
+
+    return this.n_title = title;
+  }
 
 }
